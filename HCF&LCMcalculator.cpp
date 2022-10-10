@@ -29,8 +29,6 @@ int LCM(int n1,int n2,int HCF)
 int main()
 {
     long t;
-    //t=2000000000000000000000;
-    //while(t--){
     hello:
     int num1,num2,HCFA,LCMA;
     cout<<"ENTER THE NUMBER 1"<<endl;
